@@ -1,4 +1,4 @@
-# Navigation-Bar
+# Responsive React Navigation-Bar
 React Navigation Bar 
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
